@@ -13,8 +13,8 @@ In a previous article, we have built a simulation model based on a continuous re
 
 However, this kind of policy can be inefficient when you handle a large portfolio of items that may have different replenishment cycle lengths.
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/inventory-management-for-retail-periodic-review-policy-4399330ce8b0),  we will improve this model and implement a periodic review policy with Python to limit the number of replenishments.
+### Article
+In this [Article](https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/),  we will improve this model and implement a periodic review policy with Python to limit the number of replenishments.
 
 ### Problem Statement
 As an Inventory Manager of a mid-size retail chain, you are in charge of setting the replenishment quantity in the ERP.
