@@ -32,7 +32,7 @@ In this repository code you will find all the code used to explain the concepts 
 
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://wwww.logi-green.com/). \
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)
 
 Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
 
