@@ -1,25 +1,31 @@
 ## Inventory Management for Retail — Stochastic Demand 📈
-*Implement inventory management rules based on a periodic review policy to reduce the number of stores replenishments*
+*Implement inventory management rules based on a periodic review policy to reduce the number of store replenishments*
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/1280/1*IKoODTaPlZ1I6GdZ4vGwow.png">
+  <a href="https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://miro.medium.com/max/1280/1*IKoODTaPlZ1I6GdZ4vGwow.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
-For most retailers, inventory management systems take a fixed, rule-based approach to forecast and replenishment orders management.
+For most retailers, inventory management systems take a fixed, rule-based approach to forecasting and managing replenishment orders.
 
-The objective is to build a replenishment policy that will minimize ordering, holding and shortage costs.
+The objective is to develop a replenishment policy that minimises ordering, holding, and shortage costs.
 
-In a previous article, we have built a simulation model based on a continuous review inventory policy, assuming a normal distribution of the demand.
+In a previous article, we built a simulation model based on a continuous-review inventory policy, assuming a normal demand distribution.
 
-However, this kind of policy can be inefficient when you handle a large portfolio of items that may have different replenishment cycle lengths.
+However, this policy can be inefficient when managing a portfolio of items with varying replenishment cycles.
 
 ### Article
 In this [Article](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/),  we will improve this model and implement a periodic review policy with Python to limit the number of replenishments.
 
 ### Problem Statement
-As an Inventory Manager of a mid-size retail chain, you are in charge of setting the replenishment quantity in the ERP.
-Because your warehouse operational manager is complaining about the orders frequencies, you start to challenge the replenishment rules implemented in the ERP, especially for the fast runners.
-Previously we have implemented several inventory rules based on continuous review policies.
+As an Inventory Manager at a mid-sized retail chain, you are responsible for setting replenishment quantities in the ERP.
+Because your warehouse operations manager is complaining about order frequency, you begin to challenge the replenishment rules implemented in the ERP, especially for the fast-runners.
+Previously, we have implemented several inventory rules based on continuous review policies.
 
 ### Question
 What would be the number of replenishments if you have 2,500 SKUs?
@@ -28,11 +34,10 @@ What would be the number of replenishments if you have 2,500 SKUs?
 This analysis will be based on Dummy Data shared in this folder.
 
 ## Code
-In this repository code you will find all the code used to explain the concepts presented in the article.
+In this repository, you will find all the code used to explain the concepts presented in the article.
 
 ## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)
-
+Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)\
 Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
 
