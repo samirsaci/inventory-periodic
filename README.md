@@ -33,11 +33,29 @@ What would be the number of replenishments if you have 2,500 SKUs?
 ### Data set
 This analysis will be based on Dummy Data shared in this folder.
 
+**Note:** Please unpack the `.rar` file in the `data` folder to extract the CSV file before running the script.
+
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
 
+### Files
+- `Inventory Management - Stochastic Periodic.ipynb` - Jupyter notebook with step-by-step analysis
+- `inventory_periodic.py` - Standalone Python script
+
+### Getting Started
+```bash
+pip install -r requirements.txt
+python inventory_periodic.py
+```
+
+### Dependencies
+- pandas
+- matplotlib
+- numpy
+- scipy
+
+
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)\
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
-
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).\
+For more case studies, check my [Personal Website](https://samirsaci.com).
